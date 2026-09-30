@@ -1,0 +1,12 @@
+{
+  "name": "one-last-message",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple personal message website",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
